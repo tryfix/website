@@ -1,6 +1,6 @@
-baseURL = "https://tryfix.github.io"
+baseURL = "https://tryfix.io"
 languageCode = "en-us"
-title = "TryFix | You Try, We Fix"
+title = "TryFix | Try Us, We Fix"
 theme = "navigator-hugo"
 summaryLength = 10
 publishDir = "tryfix.github.io"
@@ -121,7 +121,7 @@ footerSubscribeTitle = "Subscribe"
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "You Try, We Fix"
+heading = "Try Us, We Fix"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button  = true
 btnText = "Know More"
